@@ -77,7 +77,7 @@ Only an adjacent pair of probes can form the initiator sequence and induce the a
  
 
 > [!IMPORTANT]
-> Change the parameters since the probe region is short. For the browser Blast users, set word count to 7 and match/mismatch scores to 1, -3. For the local Blast users, use option -task with blastn-short.
+> Change the parameters since the probe region is short. For the browser Blast users, set word size to 7 and match/mismatch scores to 1, -3. For the local Blast users, use option -task with blastn-short.
 
  
 ## VIII. Procedure of the split_initiator_probe_pair_generator_01.R program
