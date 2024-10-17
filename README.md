@@ -2,7 +2,8 @@
 
 ## I. Environment
 We have verified that our R files work in the following environments.<br>
-R version 4.3.3 (2024-02-29)
+- R version 4.3.3 (2024-02-29)
+- macOS 15.0.1
 
 ## II. Workflow of the pipeline
 1. Find candidate regions for generating probes for the target mRNA (probe_region_finder_01.R).
