@@ -31,7 +31,7 @@ R version 4.3.3 (2024-02-29)
 ## V. Overview of the probe_region_finder_01.R program
  
 <p align="center">
-<img src="ImagesREADME/fig2.png" width="66%">  
+<img src="ImagesREADME/fig2_terminal.png" width="66%">  
 </p>
 <p align="center">
  Figure 2
