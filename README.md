@@ -77,7 +77,7 @@ Only an adjacent pair of probes can form the initiator sequence and induce the a
  
 
 > [!IMPORTANT]
-> Change the parameters since the probe region is short. For the browser Blast users, set word size to 7 and match/mismatch scores to 1, -3. For the local Blast users, use option -task with blastn-short.
+> Change the parameters since the probe region is short. For the browser Blast users, set word count to 7 and match/mismatch scores to 1, -3. For the local Blast users, use option -task with blastn-short.
 
  
 ## VIII. Procedure of the split_initiator_probe_pair_generator_01.R program
@@ -109,7 +109,7 @@ Label the probe with the mRNA name, hairpin DNA ID, start position, and probe ty
 ```
 Rscript probe_order_formatter_01.R Probe_S73_tdTomato_ProbeRegionSense_45_55_selected.csv
 ```
-
+2. The Probe table is output as a CSV file.
 ## X. Acknowledgment
 We thank for Dr. Shunta Yorimoto for technical advice and providing codes. 
 
