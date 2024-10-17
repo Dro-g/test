@@ -113,7 +113,7 @@ Rscript probe_order_formatter_01.R Probe_S73_tdTomato_ProbeRegionSense_45_55_sel
 ## X. Acknowledgment
 We thank for Dr. Shunta Yorimoto for technical advice and providing codes. 
 
-## VX. References
+## XI. References
 1. https://nepagene.jp/wp-content/uploads/ISHpalette_probe-design_v1-j.pdf
 2. https://sites.google.com/view/in-situ-shhcr/faq
 3. Choi HMT, Schwarzkopf M, Fornace ME, Acharya A, Artavanis G, Stegmaier J, Cunha A, Pierce NA. Third-generation _in situ_ hybridization chain reaction: multiplexed, quantitative, sensitive, versatile, robust. Development 2018; 145:dev165753.
