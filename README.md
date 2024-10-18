@@ -7,7 +7,7 @@ We have verified that our R files work in the following environments.<br>
 
 ## II. Workflow of the pipeline
 1. Find candidate regions for generating probes for the target mRNA (probe_region_finder_00.R).
-2. Identify similarities in all RNAs except the target (Blastn).
+2. Check the specificity of the probe candidates and remove the non-specific ones (Blastn).
 3. Add the initiator sequence (split_initiator_probe_pair_generator_00.R).
 4. Label the probes (probe_order_formatter_00.R).
  
